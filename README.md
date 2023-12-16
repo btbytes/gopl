@@ -1,2 +1,4 @@
 # gopl
-Go Programming Language playground
+
+go programming language playground. currently working through [gopl.io](./gopl.io/).
+
